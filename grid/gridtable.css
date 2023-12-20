@@ -1,0 +1,52 @@
+
+body{
+    background-image: linear-gradient(45deg, black 10%, blue 50%, gray 100%);
+}
+
+.col{
+
+    background: darkturquoise;
+    height: 200px;
+   
+
+}
+
+
+
+.col-3{
+    height: 150px;
+}
+
+.col-4{
+    border: 2px solid #060a0a;
+}
+
+
+.container{
+    background: darkturquoise;
+    margin-bottom: 30px;
+    
+   
+    
+}
+
+
+
+.footer{
+    height: 60px;
+    border: 2px solid #060a0a;
+ }
+
+ .header{
+    height: 60px;
+    border: 2px solid #060a0a;
+ }
+
+ .content{
+    border: 2px solid #060a0a;
+ }
+
+ .side-bar{
+    border-left: 3px solid #060a0a;;
+ }
+ 
